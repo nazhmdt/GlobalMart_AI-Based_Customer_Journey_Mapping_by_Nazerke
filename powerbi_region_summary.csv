@@ -1,0 +1,6 @@
+Region,Total_Customers,Total_Revenue_USD,Avg_CLV_USD,Churn_Rate_Pct,Positive_Sentiment_Pct,Conversion_Rate_Pct,Avg_Order_Value_USD,Total_Transactions
+MENA,877,8134811.0,5753.0,23.8,73.1,11.14,786.5,10343
+Southeast Asia,730,6642936.0,5646.0,24.8,67.7,10.92,786.15,8450
+North America,1522,14508601.0,5940.0,20.9,72.1,11.34,804.02,18045
+Europe,1243,10987450.0,5541.0,23.5,71.1,11.63,776.28,14154
+Central Asia,628,5776251.0,5742.0,22.0,69.5,11.24,793.01,7284
